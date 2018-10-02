@@ -1,2 +1,4 @@
 # hello-world
-Where I store small ideas and tweaks on code
+Hi there, my name is George and i am a digital marketer. 
+
+In this repository I will put my tweaks on snipper codes regarding marketing tags.
